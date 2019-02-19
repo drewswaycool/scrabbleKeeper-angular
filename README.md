@@ -6,7 +6,9 @@ Use: https://drewswaycool.github.io/scrabbleKeeper-angular/
 
 Written ~ August 2014
 
-# original readme:
+---
+
+### original readme:
 <pre>
 ## Description
 Scrabble score keeping system written in AngularJS
