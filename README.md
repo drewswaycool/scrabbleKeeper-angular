@@ -1,2 +1,5 @@
-# [archived]scrabbleKeeper-angular ~ August 2014
-A score keeping app for scrabble written in angular
+# [archived] scrabbleKeeper-angular
+A score keeping app for scrabble written in angular.js
+
+
+Written ~ August 2014
